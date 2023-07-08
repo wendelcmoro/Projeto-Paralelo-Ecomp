@@ -1,0 +1,412 @@
+@font-face { font-family: OpenSans-SemiBold;
+						  src: url('../fonts/OpenSans-SemiBold.ttf');}
+						  
+@font-face { font-family: OpenSans-Regular;
+						  src: url('../fonts/OpenSans-Regular.ttf');}
+
+@font-face {
+	font-family: SourceSansPro-Regular;
+	src: url('../fonts/SourceSansPro-Regular.ttf');
+}
+
+section {
+	max-width: 1140px;
+}
+
+#art{
+	color: #0d0d0d !important;
+}
+						  
+@font-face { font-family: OpenSans-SemiBoldItalic;
+						  src: url('../fonts/OpenSans-SemiBoldItalic.ttf');}
+						  
+#seta{
+	float: right !important;
+	font-size: 40pt !important;
+	font-family: OpenSans-SemiBold !important;
+	display: inline-block !important;
+	text-decoration: none;
+	color: black;
+}		
+
+#seta2{
+	float: right !important;
+	font-size: 40pt !important;
+	font-family: OpenSans-SemiBold !important;
+	display: inline-block !important;
+	text-decoration: none;
+	color: black;
+	margin-top: 50px;
+}	
+			  
+.padding{
+	background-color: #0d0d0d !important;
+	padding-right: 10px;
+	padding-left: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	height: 100%;
+	color: white;
+	font-family: OpenSans-SemiBold;
+}
+
+#sec{
+	color: #0d0d0d !important;
+	font-family: OpenSans-SemiBold;
+}
+
+.denis{
+	color: white !important;
+}
+
+.decomen{
+	color: white !important;
+	font-family: OpenSans-SemiBold;
+	margin-bottom: 40px;
+}
+
+.desc{
+	padding-top: 20px;
+	font-family: OpenSans-SemiBold;
+}
+
+#sinatura{
+	font-family: OpenSans-SemiBoldItalic;
+	color: white;
+	margin-bottom: 70px;
+}
+
+#func{
+	font-family: OpenSans-Regular;
+	font-size: 10pt;
+}
+
+#denis-waitley{
+	background-color: #0d0d0d;
+}
+	
+.bloco{
+	padding-bottom: 30px;
+}
+	
+.titulo{
+	text-align: center;
+	font-family: OpenSans-SemiBold;
+}
+
+.com{
+	color: white !important;
+	font-size: 0.8rem !important;
+}
+	
+#guys{
+	color: white !important;
+	font-size: 15px !important;
+	margin: 0 0 0 5px;
+	float: left;
+	font-size: 0.8rem !important;
+	padding-top: 70px;
+}
+
+.fatos{
+	margin-top: 50px;
+	margin-bottom: 60px;
+}
+
+.facts{
+	background-color: rgba(255, 255, 255, 0.5) !important;
+	font-family: OpenSans-SemiBold;
+	font-size: 10pt !important;
+	color: white;
+	opacity: 0.8;
+}
+
+#tope{
+	margin-top: 30px;
+}
+
+.espaço{
+	margin-bottom: 10px;
+}
+
+.texto{
+	text-align: center;
+	font-family: OpenSans-SemiBold;
+	font-size: 12pt !important;
+	padding-top: 20px;
+	padding-bottom: 60px;
+}
+
+.sub{
+	padding-top: 20px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	font-size: 10pt;
+}
+
+.coment{	
+	color: white !important;
+}
+
+.comentario{
+	font-size: 13pt;
+	padding-left: 15px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+}
+
+.im-coment{
+	padding-left: 15px;
+	display:inline-block;
+	vertical-align:top;
+	float: left;
+	font-size: 10pt;
+	padding-bottom: 30px;
+}
+
+#gail {
+	background-color: #0d0d0d !important;
+	color: white !important;
+	font-family: OpenSans-SemiBold;
+}
+
+#mason {
+	background-color: #0d0d0d !important;
+	color: white !important;
+	font-family: OpenSans-SemiBold;
+}
+	
+#clients {
+	background-color: #efefef !important;
+	color: #0d0d0d !important;
+	font-family: OpenSans-SemiBold;
+	font-size: 18px;
+}
+
+.data{
+	display:inline-block;
+	float: right;
+	padding-left: 10px;
+}
+
+.justify-center{
+	justify-content: center;
+	margin-bottom: 100px;
+}
+	  					  
+.cliente{
+	background-color: #e6e6e6 !important;
+}
+
+.cl{
+	display: block;
+	margin-left: 180px;
+	margin-right: auto;
+	width: 80%;
+	margin-top: 50px;
+	margin-bottom: 140px;
+	opacity: 0.59;
+}
+
+.option{
+	text-align:center;
+	text-decoration: none !important;
+	
+}
+#sel{
+	margin-top: 40px;
+	margin-bottom: 50px;
+}
+	
+#portfolio-and-screenshots{
+	color: #0d0d0d !important;
+	font-family: OpenSans-SemiBold;
+	font-size: 18px !important;
+}
+	
+.artes{
+	text-align: center !important;
+}
+
+.titles{
+	display: table;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.input-footer {
+	font-family: 'Source Sans Pro';
+	color: white !important;
+	border: none;
+	background: transparent;
+	border-bottom: 1px solid #fff;
+	width: 100%;
+}
+
+#centre{	
+	text-decoration: none !important;
+	color: black !important;
+	font-family: OpenSans-SemiBold;
+	margin: 5px;
+}
+
+.titles > li{
+	list-style-type: none !important;
+	display: inline-block;
+}
+
+.slider-holder{
+	width: 100%;
+    background-color: white;
+    margin-left: -40px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 60px;
+    text-align: center;
+    overflow: hidden;
+}
+       
+.image-holder{
+    width: 120%;
+    background-color: white;
+    clear: both;
+    position: relative;
+       
+    -webkit-transition: left 2s;
+    -moz-transition: left 2s;
+    -o-transition: left 2s;
+    transition: left 2s;
+}
+       
+.slider-image{
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    
+}
+#slider-image-1:target ~ .image-holder{
+	left: 0px;
+}
+       
+#slider-image-2:target ~ .image-holder{
+    left: -800px;
+}
+       
+#slider-image-3:target ~ .image-holder{
+    left: -1600px;
+}
+       
+.button-holder{
+    position: relative;
+    top: 0px;
+    padding-top: 30px;
+    display: inline-block;
+}
+       
+.slider-change{
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    border-radius: 5px;
+    background-color: brown;
+}
+
+.slide{
+	width: 24%;
+}
+
+@media only screen and (max-width: 990px){
+	#seta2{
+		float: right !important;
+		font-size: auto !important;
+		font-family: OpenSans-SemiBold !important;
+		display: inline-block !important;
+		text-decoration: none;
+		color: black;
+		margin-top: 50px;
+	}	
+	
+	.cl{
+		display: block;
+		margin-left: 50px;
+		margin-right: auto;
+		width: 80%;
+		margin-top: 80px;
+		margin-bottom: 140px;
+		opacity: 0.59;
+	}
+}
+
+@media only screen and (max-width: 489px){
+	.titles{
+		margin-left: 0;
+	}
+
+	#centre{	
+		margin: 1px;
+	}
+
+	.titles > li{
+		float: left;
+	}
+	
+	.image-holder{
+		width: 300%;
+		background-color: white;
+		clear: both;
+		position: relative;
+		   
+		-webkit-transition: left 2s;
+		-moz-transition: left 2s;
+		-o-transition: left 2s;
+		transition: left 2s;
+	}
+}
+
+@media only screen and (max-width: 389px){
+	.titles{
+		margin: 0 auto;
+	}
+
+	.titles > li{
+		display: block !important;
+		float: none;
+	}
+	
+	.slider-holder{
+		width: 100%;
+		background-color: white;
+		margin-left: -5px;
+		margin-top: 0px;
+		margin-right: auto;
+		margin-bottom: 60px;
+		text-align: center;
+		overflow: hidden;
+	}
+	
+}
+
+@media only screen and (max-width: 389px){
+	#seta2{
+		float: right !important;
+		font-size: 10pt !important;
+		font-family: OpenSans-SemiBold !important;
+		display: inline-block !important;
+		text-decoration: none;
+		color: black;
+		margin-top: 75px;
+	}	
+	
+	.cl{
+		display: block;
+		margin-left: 20px;
+		margin-right: auto;
+		width: 80%;
+		margin-top: 80px;
+		margin-bottom: 140px;
+		opacity: 0.59;
+	}
+
+}
